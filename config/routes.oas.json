@@ -10,7 +10,7 @@
         "pathMode": "open-api"
       },
       "get": {
-        "summary": "New Route",
+        "summary": "NewRoute",
         "description": "",
         "x-zuplo-route": {
           "corsPolicy": "none",
